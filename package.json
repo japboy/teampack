@@ -1,0 +1,9 @@
+{
+  "name": "teampack",
+  "version": "0.0.1-alpha.1",
+  "description": "Yet another tiny build system wrapping webpack",
+  "main": "index.js",
+  "author": "Yu Inao",
+  "license": "MIT",
+  "private": true
+}

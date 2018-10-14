@@ -1,0 +1,16 @@
+{
+  "name": "babel-preset-teampack",
+  "version": "0.0.1-alpha.1",
+  "description": "Babel preset for teampack",
+  "author": "Yu Inao",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@vue/babel-preset-app": "^3.0.5"
+  }
+}
